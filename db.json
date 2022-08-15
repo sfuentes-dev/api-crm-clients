@@ -1,0 +1,12 @@
+{
+  "clientes": [
+    {
+      "nombre": "Sebastian Fuentes",
+      "empresa": "SEB DEV",
+      "email": "sfuentes.dev@gmail.com",
+      "tel": "3166272927",
+      "notas": "Desarrollador Web",
+      "id": 1
+    }
+  ]
+}
